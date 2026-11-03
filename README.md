@@ -6,7 +6,7 @@
 
 ### About Me :
 
-- 25 years old.
+- 26 years old.
 - 42CommonCore done at [42Lyon](https://42Lyon.fr)
 - Currently Completing [RNCP7](https://www.francecompetences.fr/recherche/rncp/39774), specializing in AI and DataScience at [42Malaga](https://42Malaga.com)
 
