@@ -27,7 +27,7 @@
 ## 💼 Experience
 
 <p>
-  <img src="assets/experience-sherpa.svg" width="400" alt="Cybersecurity AI Engineer at Sherpa Tribe, Dec 2025 to Dec 2026. Only AI engineer on a private security platform. Fine-tuned a triage model, served on-premise. Built the MCP server, RAG pipelines and agents. Built a nightly benchmark of cloud and local models.">
+  <img src="assets/job-sherpa.svg" width="400" alt="Cybersecurity AI Engineer at Sherpa Tribe, Dec 2025 to Dec 2026. Only AI engineer on a private security platform. Fine-tuned a triage model, served on-premise. Built the MCP server, RAG pipelines and agents. Built a self-correcting nightly benchmark of cloud and local models.">
   <img src="assets/job-cumarai.svg" width="400" alt="AI Integration Developer at CumarAI, Sep 2024 to Mar 2025. Full-stack development and AI integration with FastAPI, LangChain, Milvus, JavaScript and TypeScript. Connected agents to Google Drive and Microsoft OneDrive.">
 </p>
 

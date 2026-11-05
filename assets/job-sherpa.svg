@@ -10,7 +10,7 @@ text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,san
 <text class="b" x="20" y="90">Only AI engineer on a private security platform.</text>
 <text class="b" x="20" y="113">Fine-tuned a triage model, served on-premise.</text>
 <text class="b" x="20" y="136">Built the MCP server, RAG pipelines and agents.</text>
-<text class="b" x="20" y="159">Built a nightly benchmark of cloud and local models.</text>
+<text class="b" x="20" y="159">Built a self-correcting nightly model benchmark.</text>
 <rect class="c" x="20" y="176" width="44" height="24" rx="12"/><text class="ct" x="42.0" y="192" text-anchor="middle">LoRA</text>
 <rect class="c" x="71" y="176" width="57" height="24" rx="12"/><text class="ct" x="99.5" y="192" text-anchor="middle">Ollama</text>
 <rect class="c" x="135" y="176" width="37" height="24" rx="12"/><text class="ct" x="153.5" y="192" text-anchor="middle">MCP</text>
