@@ -40,11 +40,11 @@
 
 Fields I covered:
 
-- **Neural networks:** [Multilayer-Perceptron](https://github.com/ColasGelin/Multilayer-Perceptron), a network from scratch with no ML framework
-- **Reinforcement learning:** [Learn2Slither](https://github.com/ColasGelin/Learn2Slither), a Snake agent
-- **Brain-computer interfaces:** [Total-Perspective-Vortex](https://github.com/ColasGelin/Total-Perspective-Vortex), an ML project on brain signals
-- **Infrastructure:** [Inception-of-Things](https://github.com/ColasGelin/Inception-of-Things), Kubernetes and GitOps with Argo CD
-- **Systems programming:** [Minishell](https://github.com/ColasGelin/Minishell-42project), a bash clone in C, built with Maxime Finette
+- **Neural networks:** [Multilayer-Perceptron](https://github.com/ColasGelin/Multilayer-Perceptron), a network from scratch with no ML framework to diagnose maligne breast tumors
+- **Reinforcement learning:** [Learn2Slither](https://github.com/ColasGelin/Learn2Slither), a Self learning RL Snake agent
+- **Brain-computer interfaces:** [Total-Perspective-Vortex](https://github.com/ColasGelin/Total-Perspective-Vortex), an ML project using brain signals to predict patient's movement
+- **Infrastructure:** [Inception-of-Things](https://github.com/ColasGelin/Inception-of-Things), Kubernetes and GitOps with Argo CD and GitLab
+- **Systems programming:** [Minishell](https://github.com/ColasGelin/Minishell-42project), a bash clone in C, built entirely from scratch
 
 ## 🚀 Public projects
 
