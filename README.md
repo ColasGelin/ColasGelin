@@ -19,6 +19,7 @@
 ## ⭐ Highlights
 
 - 🛡️ **Only AI engineer** on a private cybersecurity platform at Sherpa Tribe
+- 🎓 **Self-taught through 42 School**: level 19.70 of 21, graduating May 2027
 - 🏆 **1st place**, NASA Space Apps Challenge Málaga 2025
 - 🏆 **1st place**, Lanoria Hackathon, Málaga
 - 🤖 **Built my own job-search agent**, which I run daily
@@ -45,12 +46,26 @@ The code is private, so here is what I built:
 | **[Hackathon-LaNoria](https://github.com/ColasGelin/Hackathon-LaNoria)** 🏆 | Phone camera app that describes surroundings aloud to blind users and warns of danger. | Next.js, Gemini |
 | **[Re-fresh.earth](https://github.com/ColasGelin/Re-fresh.earth)** 🏆 | 3D heat map of Málaga from Landsat data, with green zone simulation. | Next.js, Three.js |
 
+## 🎓 Self-taught at 42 School
+
+42 has no teachers and no lectures. You learn a new field on your own for each project, and other students review your work.
+
+**Level 19.70 of 21. Graduating in May 2027 with an RNCP 7 (Master's level) in Computer Science.**
+
+| Field | What I built |
+|---|---|
+| Neural networks | [Multilayer-Perceptron](https://github.com/ColasGelin/Multilayer-Perceptron): a network from scratch, with no ML framework |
+| Reinforcement learning | [Learn2Slither](https://github.com/ColasGelin/Learn2Slither): a Snake agent |
+| Brain-computer interfaces | [Total-Perspective-Vortex](https://github.com/ColasGelin/Total-Perspective-Vortex): an ML project on brain signals |
+| Infrastructure | [Inception-of-Things](https://github.com/ColasGelin/Inception-of-Things): Kubernetes and GitOps with Argo CD |
+| Systems programming | [Minishell](https://github.com/ColasGelin/Minishell-42project): a bash clone in C, built with Maxime Finette |
+
 ## 🧰 Main tools
 
 `Python` `TypeScript` `FastAPI` `LangChain` `LangGraph` `Qdrant` `Milvus` `Ollama` `Docker` `Kubernetes` `Next.js`
 
-## 🎓 Background
+## 📌 Background
 
 - **Previously:** AI Integration Developer at CumarAI (Sep 2024 to Mar 2025)
-- **Education:** 42 School (Lyon, then Málaga), RNCP 7 (Master's level) in Computer Science, expected May 2027
+- **Education:** 42 School, Lyon then Málaga (Nov 2022 to May 2027)
 - **Languages:** French (native), Spanish (C1), English (C1)
