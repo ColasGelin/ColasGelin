@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 804 176" width="804" height="176" role="img" aria-label="42 School, RNCP 7 (Master's level) in Computer Science · Lyon, then Málaga · Nov 2022 to May 2027">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.bg{fill:#fff;stroke:#d0d7de}.t{fill:#1f2328;font-size:17px;font-weight:600}.m{fill:#59636e;font-size:13px}.b{fill:#1f2328;font-size:13.5px}.c{fill:#f6f8fa;stroke:#d0d7de}.ct{fill:#1f2328;font-size:12px}.n{fill:#8250df;font-size:32px;font-weight:700}.l{fill:#59636e;font-size:13px}
+@media (prefers-color-scheme:dark){.bg{fill:#151b23;stroke:#3d444d}.t,.b,.ct{fill:#f0f6fc}.m,.l{fill:#9198a1}.c{fill:#262c36;stroke:#3d444d}.n{fill:#ab7df8}}
+</style>
+<rect class="bg" x="0.5" y="0.5" width="803" height="175" rx="10"/>
+<rect x="0.5" y="16" width="4" height="46" rx="2" fill="#8250df"/>
+<text class="t" x="20" y="36">42 School</text>
+<text class="m" x="20" y="57">RNCP 7 (Master's level) in Computer Science · Lyon, then Málaga · Nov 2022 to May 2027</text>
+<text class="n" x="784" y="42" text-anchor="end">19.70</text>
+<text class="l" x="784" y="60" text-anchor="end">level, out of 21</text>
+<text class="b" x="20" y="92">No teachers and no lectures. I learned a new field on my own for each project, and other students reviewed my work.</text>
+<rect class="c" x="20" y="126" width="117" height="24" rx="12"/><text class="ct" x="78.5" y="142" text-anchor="middle">Neural networks</text>
+<rect class="c" x="144" y="126" width="163" height="24" rx="12"/><text class="ct" x="225.5" y="142" text-anchor="middle">Reinforcement learning</text>
+<rect class="c" x="314" y="126" width="183" height="24" rx="12"/><text class="ct" x="405.5" y="142" text-anchor="middle">Brain-computer interfaces</text>
+<rect class="c" x="504" y="126" width="84" height="24" rx="12"/><text class="ct" x="546.0" y="142" text-anchor="middle">Kubernetes</text>
+<rect class="c" x="595" y="126" width="143" height="24" rx="12"/><text class="ct" x="666.5" y="142" text-anchor="middle">Systems programming</text>
+</svg>

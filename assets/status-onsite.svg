@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 173 36" width="173" height="36" role="img" aria-label="On-site in Málaga">
+<style>
+.p{fill:#fbefff;stroke:#8250df;stroke-opacity:.35}.d{fill:#8250df}.h{fill:#8250df;opacity:.2}
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:13.5px;font-weight:600;fill:#512a97}
+@media (prefers-color-scheme:dark){.p{fill:#1f1a33;stroke:#ab7df8}.d,.h{fill:#ab7df8}text{fill:#e2c5ff}}
+</style>
+<rect class="p" x="0.5" y="0.5" width="172" height="35" rx="18"/>
+<circle class="h" cx="18" cy="18" r="7"/><circle class="d" cx="18" cy="18" r="3.5"/>
+<text x="31" y="23">On-site in Málaga</text>
+</svg>

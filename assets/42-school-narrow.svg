@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 262" width="400" height="262" role="img" aria-label="42 School, Lyon, then Málaga · Nov 2022 to May 2027">
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.bg{fill:#fff;stroke:#d0d7de}.t{fill:#1f2328;font-size:17px;font-weight:600}.m{fill:#59636e;font-size:13px}.b{fill:#1f2328;font-size:13.5px}.c{fill:#f6f8fa;stroke:#d0d7de}.ct{fill:#1f2328;font-size:12px}.n{fill:#8250df;font-size:32px;font-weight:700}.l{fill:#59636e;font-size:13px}
+@media (prefers-color-scheme:dark){.bg{fill:#151b23;stroke:#3d444d}.t,.b,.ct{fill:#f0f6fc}.m,.l{fill:#9198a1}.c{fill:#262c36;stroke:#3d444d}.n{fill:#ab7df8}}
+</style>
+<rect class="bg" x="0.5" y="0.5" width="399" height="261" rx="10"/>
+<rect x="0.5" y="16" width="4" height="46" rx="2" fill="#8250df"/>
+<text class="t" x="20" y="36">42 School</text>
+<text class="m" x="20" y="57">Lyon, then Málaga · Nov 2022 to May 2027</text>
+<text class="n" x="380" y="42" text-anchor="end">19.70</text>
+<text class="l" x="380" y="60" text-anchor="end">level, out of 21</text>
+<text class="b" x="20" y="92">RNCP 7 (Master's level) in Computer Science.</text>
+<text class="b" x="20" y="115">No teachers and no lectures. I learned a new field</text>
+<text class="b" x="20" y="138">on my own for each project, and other students</text>
+<text class="b" x="20" y="161">reviewed my work.</text>
+<rect class="c" x="20" y="186" width="117" height="24" rx="12"/><text class="ct" x="78.5" y="202" text-anchor="middle">Neural networks</text>
+<rect class="c" x="144" y="186" width="163" height="24" rx="12"/><text class="ct" x="225.5" y="202" text-anchor="middle">Reinforcement learning</text>
+<rect class="c" x="314" y="186" width="24" height="24" rx="12"/><text class="ct" x="326.0" y="202" text-anchor="middle">C</text>
+<rect class="c" x="20" y="217" width="183" height="24" rx="12"/><text class="ct" x="111.5" y="233" text-anchor="middle">Brain-computer interfaces</text>
+<rect class="c" x="210" y="217" width="84" height="24" rx="12"/><text class="ct" x="252.0" y="233" text-anchor="middle">Kubernetes</text>
+</svg>

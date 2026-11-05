@@ -3,9 +3,9 @@
 <p align="center"><strong>AI engineer. I build LLM applications and measure whether they work.</strong></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Available-January_2027-2ea44f?style=for-the-badge" alt="Available January 2027">
-  <img src="https://img.shields.io/badge/Remote-Europe-0969da?style=for-the-badge" alt="Remote in Europe">
-  <img src="https://img.shields.io/badge/On--site-Málaga-8250df?style=for-the-badge" alt="On-site in Málaga">
+  <img src="assets/status-available.svg" height="36" alt="Available January 2027">
+  <img src="assets/status-remote.svg" height="36" alt="Remote in Europe">
+  <img src="assets/status-onsite.svg" height="36" alt="On-site in Málaga">
 </p>
 
 <p align="center">
@@ -27,17 +27,18 @@
 ## 💼 Experience
 
 <p>
-  <img src="assets/sherpa-tribe.svg" width="400" alt="Cybersecurity AI Engineer intern at Sherpa Tribe, Dec 2025 to Dec 2026. Only AI engineer on a private security platform. Fine-tuned a triage model, served on-premise. Built the MCP server, RAG pipelines and agents. Built a nightly benchmark of cloud and local models.">
+  <img src="assets/sherpa-tribe.svg?v=2" width="400" alt="Cybersecurity AI Engineer intern at Sherpa Tribe, Dec 2025 to Dec 2026. Only AI engineer on a private security platform. Fine-tuned a triage model, served on-premise. Built the MCP server, RAG pipelines and agents. Built a nightly benchmark of cloud and local models.">
   <img src="assets/cumarai.svg" width="400" alt="AI Integration Developer at CumarAI, Sep 2024 to Mar 2025. AI integration work with FastAPI, LangChain, Milvus and JavaScript.">
 </p>
 
 ## 🎓 School
 
-**42 School**, Lyon then Málaga · Nov 2022 to May 2027
+<picture>
+  <source media="(max-width: 1240px)" srcset="assets/42-school-narrow.svg">
+  <img src="assets/42-school.svg" alt="42 School, Lyon then Málaga, Nov 2022 to May 2027. Level 19.70 out of 21. RNCP 7 (Master's level) in Computer Science. No teachers and no lectures: I learned a new field on my own for each project, and other students reviewed my work.">
+</picture>
 
-**Level 19.70 of 21. RNCP 7 (Master's level) in Computer Science.**
-
-42 has no teachers and no lectures. You learn a new field on your own for each project, and other students review your work. Fields I covered:
+Fields I covered:
 
 - **Neural networks:** [Multilayer-Perceptron](https://github.com/ColasGelin/Multilayer-Perceptron), a network from scratch with no ML framework
 - **Reinforcement learning:** [Learn2Slither](https://github.com/ColasGelin/Learn2Slither), a Snake agent
