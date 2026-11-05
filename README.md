@@ -26,47 +26,38 @@
 
 ## 💼 Experience
 
-**Cybersecurity AI Engineer intern at Sherpa Tribe** · Dec 2025 to Dec 2026
+<p>
+  <img src="assets/sherpa-tribe.svg" width="400" alt="Cybersecurity AI Engineer intern at Sherpa Tribe, Dec 2025 to Dec 2026. Only AI engineer on a private security platform. Fine-tuned a triage model, served on-premise. Built the MCP server, RAG pipelines and agents.">
+  <img src="assets/cumarai.svg" width="400" alt="AI Integration Developer at CumarAI, Sep 2024 to Mar 2025. AI integration work with FastAPI, LangChain, Milvus and JavaScript.">
+</p>
 
-I'm the only AI engineer on a private cybersecurity platform. I fine-tuned a triage model with **LoRA** and serve it on-premise with **Ollama**, and I built the platform's **MCP server**, **RAG pipelines and agents**, plus a **nightly benchmark** that compares cloud and local models.
+## 🎓 School
 
-**AI Integration Developer at CumarAI** · Sep 2024 to Mar 2025
+**42 School**, Lyon then Málaga · Nov 2022 to May 2027
 
-AI integration work with FastAPI, LangChain, Milvus and JavaScript.
+**Level 19.70 of 21. RNCP 7 (Master's level) in Computer Science.**
 
-## 🗓️ Timeline
+42 has no teachers and no lectures. You learn a new field on your own for each project, and other students review your work. Fields I covered:
 
-<table>
-  <tr><th>When</th><th>💼 Work</th><th>🎓 School</th></tr>
-  <tr><td>May 2027</td><td></td><td><strong>Graduation</strong>, RNCP 7 (Master's level)</td></tr>
-  <tr><td>January 2027</td><td><strong>Available for a new role</strong></td><td rowspan="4">42 School<br>Lyon, then Málaga<br>Level 19.70 of 21</td></tr>
-  <tr><td>Dec 2025 to Dec 2026</td><td>Sherpa Tribe, Cybersecurity AI Engineer intern</td></tr>
-  <tr><td>Sep 2024 to Mar 2025</td><td>CumarAI, AI Integration Developer</td></tr>
-  <tr><td>Nov 2022</td><td></td></tr>
-</table>
+- **Neural networks:** [Multilayer-Perceptron](https://github.com/ColasGelin/Multilayer-Perceptron), a network from scratch with no ML framework
+- **Reinforcement learning:** [Learn2Slither](https://github.com/ColasGelin/Learn2Slither), a Snake agent
+- **Brain-computer interfaces:** [Total-Perspective-Vortex](https://github.com/ColasGelin/Total-Perspective-Vortex), an ML project on brain signals
+- **Infrastructure:** [Inception-of-Things](https://github.com/ColasGelin/Inception-of-Things), Kubernetes and GitOps with Argo CD
+- **Systems programming:** [Minishell](https://github.com/ColasGelin/Minishell-42project), a bash clone in C, built with Maxime Finette
 
 ## 🚀 Public projects
 
-| Project | What it does | Built with |
-|---|---|---|
-| **[jobcopilot](https://github.com/ColasGelin/jobcopilot)** | Collects job offers, scores them with Claude, tailors my CV and drafts answers. A code guard catches invented facts, and it never submits an application. | FastAPI, htmx, Docker, Playwright, 440+ tests |
-| **[Supermarket-Queue-Manager](https://github.com/ColasGelin/Supermarket-Queue-Manager)** | Self-hosted supermarket queue monitor. An agent suggests actions and a human decides. | YOLOv8, LangGraph, Ollama, Grafana |
-| **[Hackathon-LaNoria](https://github.com/ColasGelin/Hackathon-LaNoria)** 🏆 | Phone camera app that describes surroundings aloud to blind users and warns of danger. | Next.js, Gemini |
-| **[Re-fresh.earth](https://github.com/ColasGelin/Re-fresh.earth)** 🏆 | 3D heat map of Málaga from Landsat data, with green zone simulation. | Next.js, Three.js |
+**[jobcopilot](https://github.com/ColasGelin/jobcopilot)**: collects job offers, scores them with Claude, tailors my CV and drafts answers. A code guard catches invented facts, and it never submits an application.<br>
+`FastAPI` `htmx` `Docker` `Playwright` `440+ tests`
 
-## 🎓 Self-taught at 42 School
+**[Supermarket-Queue-Manager](https://github.com/ColasGelin/Supermarket-Queue-Manager)**: self-hosted queue monitor. An agent suggests actions and a human decides.<br>
+`YOLOv8` `LangGraph` `Ollama` `Grafana`
 
-42 has no teachers and no lectures. You learn a new field on your own for each project, and other students review your work.
+**[Hackathon-LaNoria](https://github.com/ColasGelin/Hackathon-LaNoria)** 🏆: phone camera app that describes surroundings aloud to blind users and warns of danger.<br>
+`Next.js` `Gemini`
 
-**Level 19.70 of 21. Graduating in May 2027 with an RNCP 7 (Master's level) in Computer Science.**
-
-| Field | What I built |
-|---|---|
-| Neural networks | [Multilayer-Perceptron](https://github.com/ColasGelin/Multilayer-Perceptron): a network from scratch, with no ML framework |
-| Reinforcement learning | [Learn2Slither](https://github.com/ColasGelin/Learn2Slither): a Snake agent |
-| Brain-computer interfaces | [Total-Perspective-Vortex](https://github.com/ColasGelin/Total-Perspective-Vortex): an ML project on brain signals |
-| Infrastructure | [Inception-of-Things](https://github.com/ColasGelin/Inception-of-Things): Kubernetes and GitOps with Argo CD |
-| Systems programming | [Minishell](https://github.com/ColasGelin/Minishell-42project): a bash clone in C, built with Maxime Finette |
+**[Re-fresh.earth](https://github.com/ColasGelin/Re-fresh.earth)** 🏆: 3D heat map of Málaga from Landsat data, with green zone simulation.<br>
+`Next.js` `Three.js`
 
 ## 🧰 Main tools
 
