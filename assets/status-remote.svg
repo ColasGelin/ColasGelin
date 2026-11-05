@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 166 36" width="166" height="36" role="img" aria-label="Remote in Europe">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 158 34" width="158" height="34" role="img" aria-label="Remote in Europe">
 <style>
-.p{fill:#ddf4ff;stroke:#0969da;stroke-opacity:.35}.d{fill:#0969da}.h{fill:#0969da;opacity:.2}
-text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:13.5px;font-weight:600;fill:#0a3069}
-@media (prefers-color-scheme:dark){.p{fill:#121d2f;stroke:#58a6ff}.d,.h{fill:#58a6ff}text{fill:#b6e3ff}}
+.p{fill:#f6f8fa}.d{fill:#58a6ff}
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:13.5px;font-weight:500;fill:#59636e}
+@media (prefers-color-scheme:dark){.p{fill:#161b22}.d{fill:#58a6ff}text{fill:#9198a1}}
 </style>
-<rect class="p" x="0.5" y="0.5" width="165" height="35" rx="18"/>
-<circle class="h" cx="18" cy="18" r="7"/><circle class="d" cx="18" cy="18" r="3.5"/>
-<text x="31" y="23">Remote in Europe</text>
+<rect class="p" width="158" height="34" rx="17"/>
+<circle class="d" cx="17" cy="17" r="3.5"/>
+<text x="29" y="22">Remote in Europe</text>
 </svg>

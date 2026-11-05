@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 36" width="210" height="36" role="img" aria-label="Available January 2027">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 34" width="200" height="34" role="img" aria-label="Available January 2027">
 <style>
-.p{fill:#dafbe1;stroke:#1a7f37;stroke-opacity:.35}.d{fill:#1a7f37}.h{fill:#1a7f37;opacity:.2}
-text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:13.5px;font-weight:600;fill:#116329}
-@media (prefers-color-scheme:dark){.p{fill:#12261e;stroke:#3fb950}.d,.h{fill:#3fb950}text{fill:#aff5b4}}
+.p{fill:#f6f8fa}.d{fill:#3fb950}
+text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;font-size:13.5px;font-weight:500;fill:#59636e}
+@media (prefers-color-scheme:dark){.p{fill:#161b22}.d{fill:#3fb950}text{fill:#9198a1}}
 </style>
-<rect class="p" x="0.5" y="0.5" width="209" height="35" rx="18"/>
-<circle class="h" cx="18" cy="18" r="7"/><circle class="d" cx="18" cy="18" r="3.5"/>
-<text x="31" y="23">Available January 2027</text>
+<rect class="p" width="200" height="34" rx="17"/>
+<circle class="d" cx="17" cy="17" r="3.5"/>
+<text x="29" y="22">Available January 2027</text>
 </svg>

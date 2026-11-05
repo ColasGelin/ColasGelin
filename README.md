@@ -3,9 +3,9 @@
 <p align="center"><strong>AI engineer. I build LLM applications and measure whether they work.</strong></p>
 
 <p align="center">
-  <img src="assets/status-available.svg" height="36" alt="Available January 2027">
-  <img src="assets/status-remote.svg" height="36" alt="Remote in Europe">
-  <img src="assets/status-onsite.svg" height="36" alt="On-site in Málaga">
+  <img src="assets/status-available.svg?v=4" height="34" alt="Available January 2027">
+  <img src="assets/status-remote.svg?v=4" height="34" alt="Remote in Europe">
+  <img src="assets/status-onsite.svg?v=4" height="34" alt="On-site in Málaga">
 </p>
 
 <p align="center">
@@ -27,15 +27,15 @@
 ## 💼 Experience
 
 <p>
-  <img src="assets/sherpa-tribe.svg?v=3" width="400" alt="Cybersecurity AI Engineer at Sherpa Tribe, Dec 2025 to Dec 2026. Only AI engineer on a private security platform. Fine-tuned a triage model, served on-premise. Built the MCP server, RAG pipelines and agents. Built a nightly benchmark of cloud and local models.">
-  <img src="assets/cumarai.svg" width="400" alt="AI Integration Developer at CumarAI, Sep 2024 to Mar 2025. AI integration work with FastAPI, LangChain, Milvus and JavaScript.">
+  <img src="assets/sherpa-tribe.svg?v=4" width="400" alt="Cybersecurity AI Engineer at Sherpa Tribe, Dec 2025 to Dec 2026. Only AI engineer on a private security platform. Fine-tuned a triage model, served on-premise. Built the MCP server, RAG pipelines and agents. Built a nightly benchmark of cloud and local models.">
+  <img src="assets/cumarai.svg?v=4" width="400" alt="AI Integration Developer at CumarAI, Sep 2024 to Mar 2025. AI integration work with FastAPI, LangChain, Milvus and JavaScript.">
 </p>
 
 ## 🎓 School
 
 <picture>
-  <source media="(max-width: 1240px)" srcset="assets/42-school-narrow.svg">
-  <img src="assets/42-school.svg" alt="42 School, Lyon then Málaga, Nov 2022 to May 2027. Level 19.70 out of 21. RNCP 7 (Master's level) in Computer Science. No teachers and no lectures: I learned a new field on my own for each project, and other students reviewed my work.">
+  <source media="(max-width: 1240px)" srcset="assets/42-school-narrow.svg?v=4">
+  <img src="assets/42-school.svg?v=4" alt="42 School, Lyon then Málaga, Nov 2022 to May 2027. Level 19.70 out of 21. RNCP 7 (Master's level) in Computer Science. No teachers and no lectures: I learned a new field on my own for each project, and other students reviewed my work.">
 </picture>
 
 Fields I covered:

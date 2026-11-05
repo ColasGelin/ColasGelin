@@ -1,11 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 262" width="400" height="262" role="img" aria-label="42 School, Lyon, then Málaga · Nov 2022 to May 2027">
 <style>
 text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
-.bg{fill:#fff;stroke:#d0d7de}.t{fill:#1f2328;font-size:17px;font-weight:600}.m{fill:#59636e;font-size:13px}.b{fill:#1f2328;font-size:13.5px}.c{fill:#f6f8fa;stroke:#d0d7de}.ct{fill:#1f2328;font-size:12px}.n{fill:#8250df;font-size:32px;font-weight:700}.l{fill:#59636e;font-size:13px}
-@media (prefers-color-scheme:dark){.bg{fill:#151b23;stroke:#3d444d}.t,.b,.ct{fill:#f0f6fc}.m,.l{fill:#9198a1}.c{fill:#262c36;stroke:#3d444d}.n{fill:#ab7df8}}
+.bg{fill:#f6f8fa;stroke:none}.t{fill:#1f2328;font-size:17px;font-weight:600}.m{fill:#59636e;font-size:13px}.b{fill:#1f2328;font-size:13.5px}.c{fill:#fff;stroke:none}.ct{fill:#59636e;font-size:12px}.n{fill:#1f2328;font-size:26px;font-weight:600}.l{fill:#59636e;font-size:13px}
+@media (prefers-color-scheme:dark){.bg{fill:#161b22;stroke:none}.t,.b{fill:#f0f6fc}.ct{fill:#9198a1}.m,.l{fill:#9198a1}.c{fill:#21262d;stroke:none}.n{fill:#f0f6fc}}
 </style>
 <rect class="bg" x="0.5" y="0.5" width="399" height="261" rx="10"/>
-<rect x="0.5" y="16" width="4" height="46" rx="2" fill="#8250df"/>
 <text class="t" x="20" y="36">42 School</text>
 <text class="m" x="20" y="57">Lyon, then Málaga · Nov 2022 to May 2027</text>
 <text class="n" x="380" y="42" text-anchor="end">19.70</text>
