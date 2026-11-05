@@ -22,7 +22,7 @@
 - 🎓 **Self-taught through 42 School**: level 19.70 of 21, graduating May 2027
 - 🏆 **1st place**, NASA Space Apps Challenge Málaga 2025
 - 🏆 **1st place**, Lanoria Hackathon, Málaga
-- 🤖 **Built my own job-search agent**, which I run daily
+- 🤖 **I build AI across the stack**: fine-tuned models, RAG pipelines, agents and full-stack apps, with benchmarks to measure what works
 
 ## 💼 Current work
 
