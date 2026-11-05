@@ -24,25 +24,33 @@
 - 🏆 **1st place**, Lanoria Hackathon, Málaga
 - 🤖 **I build AI across the stack**: fine-tuned models, RAG pipelines, agents and full-stack apps, with benchmarks to measure what works
 
-## 💼 Current work
+## 💼 Experience
 
-**Cybersecurity AI Engineer intern, Sherpa Tribe** (Dec 2025 to Dec 2026)
+**Cybersecurity AI Engineer intern at Sherpa Tribe** · Dec 2025 to Dec 2026
 
-The code is private, so here is what I built:
+I'm the only AI engineer on a private cybersecurity platform. I fine-tuned a triage model with **LoRA** and serve it on-premise with **Ollama**, and I built the platform's **MCP server**, **RAG pipelines and agents**, plus a **nightly benchmark** that compares cloud and local models.
 
-| Built | With |
-|---|---|
-| **Fine-tuned triage model**, served on-premise | LoRA, Ollama |
-| **MCP server** used by the platform's AI features | MCP |
-| **RAG pipelines and agents** | LangChain, LangGraph, Qdrant |
-| **Nightly benchmark** of cloud and local models | Confidence intervals |
+**AI Integration Developer at CumarAI** · Sep 2024 to Mar 2025
+
+AI integration work with FastAPI, LangChain, Milvus and JavaScript.
+
+## 🗓️ Timeline
+
+<table>
+  <tr><th>When</th><th>💼 Work</th><th>🎓 School</th></tr>
+  <tr><td>May 2027</td><td></td><td><strong>Graduation</strong>, RNCP 7 (Master's level)</td></tr>
+  <tr><td>January 2027</td><td><strong>Available for a new role</strong></td><td rowspan="4">42 School<br>Lyon, then Málaga<br>Level 19.70 of 21</td></tr>
+  <tr><td>Dec 2025 to Dec 2026</td><td>Sherpa Tribe, Cybersecurity AI Engineer intern</td></tr>
+  <tr><td>Sep 2024 to Mar 2025</td><td>CumarAI, AI Integration Developer</td></tr>
+  <tr><td>Nov 2022</td><td></td></tr>
+</table>
 
 ## 🚀 Public projects
 
 | Project | What it does | Built with |
 |---|---|---|
 | **[jobcopilot](https://github.com/ColasGelin/jobcopilot)** | Collects job offers, scores them with Claude, tailors my CV and drafts answers. A code guard catches invented facts, and it never submits an application. | FastAPI, htmx, Docker, Playwright, 440+ tests |
-| **[MLOps-Waiting-Queue](https://github.com/ColasGelin/MLOps-Waiting-Queue)** | Self-hosted supermarket queue monitor. An agent suggests actions and a human decides. | YOLOv8, LangGraph, Ollama, Grafana |
+| **[Supermarket-Queue-Manager](https://github.com/ColasGelin/Supermarket-Queue-Manager)** | Self-hosted supermarket queue monitor. An agent suggests actions and a human decides. | YOLOv8, LangGraph, Ollama, Grafana |
 | **[Hackathon-LaNoria](https://github.com/ColasGelin/Hackathon-LaNoria)** 🏆 | Phone camera app that describes surroundings aloud to blind users and warns of danger. | Next.js, Gemini |
 | **[Re-fresh.earth](https://github.com/ColasGelin/Re-fresh.earth)** 🏆 | 3D heat map of Málaga from Landsat data, with green zone simulation. | Next.js, Three.js |
 
@@ -64,8 +72,6 @@ The code is private, so here is what I built:
 
 `Python` `TypeScript` `FastAPI` `LangChain` `LangGraph` `Qdrant` `Milvus` `Ollama` `Docker` `Kubernetes` `Next.js`
 
-## 📌 Background
+## 🌍 Languages
 
-- **Previously:** AI Integration Developer at CumarAI (Sep 2024 to Mar 2025)
-- **Education:** 42 School, Lyon then Málaga (Nov 2022 to May 2027)
-- **Languages:** French (native), Spanish (C1), English (C1)
+French (native), Spanish (C1), English (C1)
